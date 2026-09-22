@@ -102,6 +102,15 @@
         <section class="rs-contact pt-80 pb-80">
             <div class="container">
                 <div class="sec-title text-center">
+                    <h2 class="title mb-20">IT Training & Upskilling in Jaipur</h2>
+                    <p>Students and professionals looking for classroom-based programming, Full Stack, Data, AI and other IT training can explore <a href="https://grootacademy.com/" target="_blank" rel="noopener">Groot Academy</a>.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="rs-contact pt-80 pb-80">
+            <div class="container">
+                <div class="sec-title text-center">
                     <h2 class="title mb-20">IT Training Resource in Jaipur</h2>
                     <p>Students and professionals looking for practical software, programming and computer training can explore <a href="https://jaipurengineers.com/" target="_blank" rel="noopener">Jaipur Engineers</a>.</p>
                 </div>
