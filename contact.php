@@ -99,6 +99,15 @@
             <!-- Contact Section Start -->
 
         </div> 
+        <section class="rs-contact pt-80 pb-80">
+            <div class="container">
+                <div class="sec-title text-center">
+                    <h2 class="title mb-20">Visiting Jaipur?</h2>
+                    <p>For local sightseeing, cab travel and Rajasthan trip planning, explore <a href="https://swiggywala.com/" target="_blank" rel="noopener">best tours and travels company in Jaipur - Swiggy Wala</a>.</p>
+                </div>
+            </div>
+        </section>
+
         <!-- Main content End -->
         <?php include 'includes/footer.php';?>     
   
